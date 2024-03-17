@@ -17,6 +17,7 @@
       https://hub.docker.com/r/linuxserver/transmission
   - WireGuard Easy:
       https://github.com/wg-easy/wg-easy
+    - Recordar abrir los puertos del router.
   - Teamspeak
       https://hub.docker.com/_/teamspeak
   - CS2 server
