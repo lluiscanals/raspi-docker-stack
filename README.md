@@ -19,4 +19,6 @@
       https://github.com/wg-easy/wg-easy
   - Teamspeak
       https://hub.docker.com/_/teamspeak
+  - CS2 server
+    https://github.com/joedwards32/CS2
        
