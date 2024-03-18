@@ -27,3 +27,6 @@
   
   - CS2 server (https://github.com/joedwards32/CS2)
        
+- Montar una carpeta de mi NAS en la Raspberry pi.
+  	- Seguir estas instrucciones https://wiki.libreelec.tv/how-to/mount_network_share
+  	- Utilizar el archivo en este repositorio como base. OJO con la version de SAMBA a veces puede ocasionar problemas.
