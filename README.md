@@ -18,8 +18,9 @@
   - WireGuard Easy:
       https://github.com/wg-easy/wg-easy
     - Recordar abrir los puertos del router.
-  - Teamspeak
-      https://hub.docker.com/r/ertagh/teamspeak3-server
+  - Teamspeak (https://hub.docker.com/r/ertagh/teamspeak3-server)
+    	- Abrir el puerto del router correspondiente
+  	- Al iniciar el teamspeak, la primera vez que te conectas al servidor copiar el token de uno de los archivos log en /storage/data/teamspeak/save/log/
   - CS2 server
     https://github.com/joedwards32/CS2
        
