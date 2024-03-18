@@ -1,0 +1,14 @@
+[Unit]
+Description=Downloaded torrents in Newton NAS
+Requires=network-online.service
+After=network-online.service
+Before=kodi.service
+
+[Mount]
+What=//192.168.50.130/Media/usbstick/complete
+Where=/var/media/newton/complete
+Options=username=XXXXXXXXXXXXXXXXX,password=XXXXXXXXXXXXXXXXX,rw,vers=1.0
+Type=cifs
+
+[Install]
+WantedBy=multi-user.target
