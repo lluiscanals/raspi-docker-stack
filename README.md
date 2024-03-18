@@ -15,12 +15,15 @@
 - Creo un nuevo stack:
   - Transmission:
       https://hub.docker.com/r/linuxserver/transmission
-  - WireGuard Easy:
-      https://github.com/wg-easy/wg-easy
-    - Recordar abrir los puertos del router.
-  - Teamspeak (https://hub.docker.com/r/ertagh/teamspeak3-server)
-    	- Abrir el puerto del router correspondiente
-  	- Al iniciar el teamspeak, la primera vez que te conectas al servidor copiar el token de uno de los archivos log en /storage/data/teamspeak/save/log/
-  - CS2 server
-    https://github.com/joedwards32/CS2
+  - WireGuard Easy (https://github.com/wg-easy/wg-easy):
+      
+    - Abrir el puerto correspondiente en el router.
+
+  - Teamspeak (https://hub.docker.com/r/ertagh/teamspeak3-server):
+
+    - Abrir el puerto correspondiente en el router.
+
+    - Al iniciar el teamspeak, la primera vez que te conectas al servidor copiar el token de uno de los archivos log en /storage/data/teamspeak/save/log/
+  
+  - CS2 server (https://github.com/joedwards32/CS2)
        
