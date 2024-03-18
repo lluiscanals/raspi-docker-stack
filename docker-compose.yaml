@@ -28,8 +28,8 @@ services:
     container_name: wg-easy
     environment:
       - LANG=es
-      - WG_HOST=lluiscanals.noip.me
-      - PASSWORD=Newton2010!
+      - WG_HOST=XXXXXXXXXXX.noip.me
+      - PASSWORD=XXXXXXXXXXXXXXXXXX
       - WG_PORT=51820
       
       # Optional:
