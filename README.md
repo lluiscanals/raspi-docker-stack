@@ -19,7 +19,7 @@
       https://github.com/wg-easy/wg-easy
     - Recordar abrir los puertos del router.
   - Teamspeak
-      https://hub.docker.com/_/teamspeak
+      https://hub.docker.com/r/ertagh/teamspeak3-server
   - CS2 server
     https://github.com/joedwards32/CS2
        
